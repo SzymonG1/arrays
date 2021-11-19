@@ -1,0 +1,4 @@
+# algorytm szukajacy najdluzszego slowa
+lista=["Genowefa", "Onufry", "Celestyna", "Alojzy","Pankracy"]
+b=max(lista, key=len)
+print("najdluzsze slowo:", b)
