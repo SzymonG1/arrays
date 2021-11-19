@@ -1,0 +1,7 @@
+import numpy as np
+lista = [4,2,8,4,7,9,5]
+array = np.array(lista)
+a=min(array)
+b=min(array)
+print(a)
+print(b)
